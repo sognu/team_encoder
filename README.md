@@ -1,5 +1,5 @@
-Implements RLE encoding then Huffman encoding
----------------------------------------------
+RLE encoding then Huffman encoding
+----------------------------------
 
 * Makefile	- For building and cleaning rhuff
 
